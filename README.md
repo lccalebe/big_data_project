@@ -1,0 +1,1 @@
+# DATASET USED IN THIS PROJECT: https://www.kaggle.com/datasets/paultimothymooney/stock-market-data/data
